@@ -1,0 +1,26 @@
+go 1.21.0
+
+use (
+	.
+	./Alga/BinnaryTree
+	./Alga/Directed_Graph
+	./Alga/Insertion_Sort
+	./Alga/QuickSort
+	./Alga/Sort_Bubbles
+	./Alga/Sorting_By_Selection
+	./Alga/TreeAlga
+	./Alga/Undirected_Graph
+	./Electronic
+	./HashFunc/HashMap
+	./HashFunc/InMemoryCashe
+	./HashFunc/Two_Arrays_Comp
+	./JustManAndCrimes
+	./Learning_Arrays
+	./Multithreading_Basics/BankClient
+	./Multithreading_Basics/MutexSeconds
+	./Multithreading_Basics/N-goroutine
+	./Multithreading_Basics/PracticsMutex
+	./Practics
+	./UpgradeCalc
+	./skillfactory/sort
+)
